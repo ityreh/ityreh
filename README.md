@@ -1,5 +1,9 @@
 # Welcome 👋
 
+## CLI / Local Tools
+- :page_facing_up: [mkreadme](https://github.com/ityreh/mkreadme) - Asks you some questions about your project and generates a beautiful readme for you.
+- :tomato: [pomodoro](https://github.com/ityreh/pomodoro) - Tool that helps you to plan, track, record, process and visualize your tasks and time. It is based on the pomodoro technique by [Francesco Cirillo](https://francescocirillo.com/).
+
 ## Wikis / Documentation
 
 - :blue_book: [Wiki](https://ityreh.github.io/) - This is my personal Wiki where I write down some technical setups and hints. It's one of my electronic memories. Changes are deployed from my [documentation source repository](https://github.com/ityreh/mkdocs) to the [GitHub Pages repository](https://github.com/ityreh/ityreh.github.io) via [GitHub Actions Job](https://github.com/ityreh/mkdocs/blob/main/.github/workflows/make.yml).
