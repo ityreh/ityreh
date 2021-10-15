@@ -1,4 +1,4 @@
-# Welcome 👋
+# Oo-de-lally 👋
 
 ## CLI / Local Tools
 - :page_facing_up: [mkreadme](https://github.com/ityreh/mkreadme) - Asks you some questions about your project and generates a beautiful readme for you.
