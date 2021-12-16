@@ -3,6 +3,7 @@
 ## CLI / Desktop Tools
 - :page_facing_up: [mkreadme](https://github.com/ityreh/mkreadme) - Asks you some questions about your project and generates a beautiful readme for you.
 - :tomato: [pomodoro](https://github.com/ityreh/pomodoro) - Tool that helps you to plan, track, record, process and visualize your tasks and time. It is based on the pomodoro technique by [Francesco Cirillo](https://francescocirillo.com/).
+- :scroll: [basti](https://github.com/ityreh/basti) - Bank Statement Interface for parsing and processing bank statements.
 
 ## Web Applications
 - :shopping: [ecom](https://github.com/ityreh/ecom) - A highly configurable e-commerce platform implemented on Django.
