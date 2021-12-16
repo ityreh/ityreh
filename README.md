@@ -6,7 +6,8 @@
 - :scroll: [basti](https://github.com/ityreh/basti) - Bank Statement Interface for parsing and processing bank statements.
 
 ## Web Applications
-- :shopping: [ecom](https://github.com/ityreh/ecom) - A highly configurable e-commerce platform implemented on Django.
+- :house_with_garden: [home](https://github.com/ityreh/home) - A highly configurable homepage based on React.
+- :shopping: [ecom](https://github.com/ityreh/ecom) - A highly configurable e-commerce platform based on Django.
 
 ## Wikis / Documentation
 
