@@ -7,6 +7,7 @@
 
 ## Web Applications
 - :house_with_garden: [home](https://github.com/ityreh/home) - A highly configurable homepage based on React.
+- :memo: [blog](https://github.com/ityreh/blog) - A highly configurable blog platform based on Django.
 - :shopping: [ecom](https://github.com/ityreh/ecom) - A highly configurable e-commerce platform based on Django.
 - :dart: [tradar](https://github.com/ityreh/tradar) - A highly configurable topic radar based on Angular.
 
