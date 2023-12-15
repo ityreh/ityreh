@@ -6,7 +6,7 @@
 - :scroll: [basti](https://github.com/ityreh/basti) - Bank Statement Interface for parsing and processing bank statements.
 
 ## Web Applications
-- :house_with_garden: [home](https://github.com/ityreh/home) - A highly configurable homepage based on React.
+- :house_with_garden: [home](https://github.com/ityreh/home) - Homepage with Microformats for IndieWeb.
 - :memo: [blog](https://github.com/ityreh/blog) - A highly configurable blog platform based on Django.
 - :shopping: [ecom](https://github.com/ityreh/ecom-service) - A highly configurable e-commerce platform based on SpringBoot with an [Angular Frontend](https://github.com/ityreh/ecom-web).
 
