@@ -1,14 +1,12 @@
 # Welcome 👋
 
 ## CLI / TUI
-- :page_facing_up: [mkreadme](https://github.com/ityreh/mkreadme) - Asks you some questions about your project and generates a beautiful readme for you.
-- :tomato: [pomodoro](https://github.com/ityreh/pomodoro) - Tool that helps you to plan, track, record, process and visualize your tasks and time. It is based on the pomodoro technique by [Francesco Cirillo](https://francescocirillo.com/).
-- :scroll: [basti](https://github.com/ityreh/basti) - Bank Statement Interface for parsing and processing bank statements.
+- :page_facing_up: [mkproject](https://github.com/ityreh/mkproject) - A project setup tool that asks you some questions and helps you setting up an awesome project strucutre.
 
 ## Web Applications
 - :house_with_garden: [home](https://github.com/ityreh/home) - Homepage with Microformats for IndieWeb.
-- :memo: [blog](https://github.com/ityreh/blog) - A highly configurable blog platform based on Django.
-- :shopping: [ecom](https://github.com/ityreh/ecom-service) - A highly configurable e-commerce platform based on SpringBoot with an [Angular Frontend](https://github.com/ityreh/ecom-web).
+- :tomato: [pomodoro](https://github.com/ityreh/pomodoro) - Tool that helps you to plan, track, record, process and visualize your tasks and time. It is based on the pomodoro technique by [Francesco Cirillo](https://francescocirillo.com/).
+- :scroll: [basti](https://github.com/ityreh/basti) - Bank Statement Interface for parsing and processing bank statements.
 
 ## Wikis / Documentation
 
