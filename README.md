@@ -1,19 +1,41 @@
-# Welcome 👋
+# Hey, I'm Yannick 👋
 
-## CLI / TUI
-- :sushi: [gitbatch](https://github.com/makibytes/gitbatch) - Managing multiple git repositories is easier than ever.
-- :incoming_envelope: [xmc](https://github.com/makibytes/xmc) - This project provides a unified command-line interface (CLI) for sending and receiving messages to/from different Message and Streaming Brokers.
+> Passionate developer · Open source enthusiast · Terminal dweller
 
-## Web Applications
-- :house_with_garden: [home](https://github.com/ityreh/home) - Homepage with Microformats for IndieWeb.
-- :tomato: [pomodoro](https://github.com/ityreh/pomodoro) - Tool that helps you to plan, track, record, process and visualize your tasks and time. It is based on the pomodoro technique by [Francesco Cirillo](https://francescocirillo.com/).
-- :scroll: [basti](https://github.com/ityreh/basti) - Bank Statement Interface for parsing and processing bank statements.
+I believe open source is one of the most powerful ideas in software — knowledge shared freely compounds in ways that no single company ever could.
 
-## Wikis / Documentation
+---
 
-- :blue_book: [Wiki](https://ityreh.github.io/) - This is my personal Wiki where I write down some technical setups and hints. It's one of my electronic memories. Changes are deployed from my [documentation source repository](https://github.com/ityreh/mkdocs) to the [GitHub Pages repository](https://github.com/ityreh/ityreh.github.io) via [GitHub Actions Job](https://github.com/ityreh/mkdocs/blob/main/.github/workflows/make.yml).
+## 🛠️ CLI / TUI
 
-## System / Development Environment
+| Project | Description |
+|--------|-------------|
+| 🍣 [gitbatch](https://github.com/makibytes/gitbatch) | Managing multiple git repositories is easier than ever. |
+| ✉️ [xmc](https://github.com/makibytes/xmc) | Unified CLI for sending and receiving messages across different Message and Streaming Brokers. |
 
-- :computer: [ArchInstall](https://github.com/ityreh/arch-install) - Installer for my personal Arch Linux development environment.
-- :gear: [Dotfiles](https://github.com/ityreh/.dotfiles) - Dotfiles for my personal Arch Linux development environment configuration.
+## 🌐 Web Applications
+
+| Project | Description |
+|--------|-------------|
+| 🏡 [home](https://github.com/ityreh/home) | Personal homepage with Microformats for IndieWeb. |
+| 🍅 [pomodoro](https://github.com/ityreh/pomodoro) | Plan, track, record and visualize tasks and time — built on the [Pomodoro Technique](https://francescocirillo.com/). |
+| 📜 [basti](https://github.com/ityreh/basti) | Bank Statement Interface for parsing and processing bank statements. |
+
+## 📚 Wikis / Documentation
+
+| Project | Description |
+|--------|-------------|
+| 📘 [Wiki](https://ityreh.github.io/) | My personal knowledge base — technical setups, hints, and notes. Deployed via [GitHub Actions](https://github.com/ityreh/mkdocs/blob/main/.github/workflows/make.yml) from [mkdocs source](https://github.com/ityreh/mkdocs) to [GitHub Pages](https://github.com/ityreh/ityreh.github.io). |
+
+## ⚙️ System / Dev Environment
+
+| Project | Description |
+|--------|-------------|
+| 💻 [ArchInstall](https://github.com/ityreh/arch-install) | Automated installer for my personal Arch Linux development environment. |
+| 🔧 [Dotfiles](https://github.com/ityreh/.dotfiles) | Dotfiles for my Arch Linux configuration — because a good environment matters. |
+
+---
+
+<p align="center">
+  <i>Open source is not just code — it's a mindset.</i>
+</p>
