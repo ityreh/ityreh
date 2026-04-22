@@ -1,7 +1,8 @@
 # Welcome 👋
 
 ## CLI / TUI
-- :page_facing_up: [mkproject](https://github.com/ityreh/mkproject) - A project setup tool that asks you some questions and helps you setting up an awesome project strucutre.
+- :sushi: [gitbatch](https://github.com/makibytes/gitbatch) - Managing multiple git repositories is easier than ever.
+- :incoming_envelope: [xmc](https://github.com/makibytes/xmc) - This project provides a unified command-line interface (CLI) for sending and receiving messages to/from different Message and Streaming Brokers.
 
 ## Web Applications
 - :house_with_garden: [home](https://github.com/ityreh/home) - Homepage with Microformats for IndieWeb.
