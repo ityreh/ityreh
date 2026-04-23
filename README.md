@@ -33,9 +33,3 @@ I believe open source is one of the most powerful ideas in software — knowledg
 |--------|-------------|
 | 💻 [ArchInstall](https://github.com/ityreh/arch-install) | Automated installer for my personal Arch Linux development environment. |
 | 🔧 [Dotfiles](https://github.com/ityreh/.dotfiles) | Dotfiles for my Arch Linux configuration — because a good environment matters. |
-
----
-
-<p align="center">
-  <i>Open source is not just code — it's a mindset.</i>
-</p>
