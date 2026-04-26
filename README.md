@@ -1,9 +1,5 @@
 # Hey, I'm Yannick 👋
 
-> Passionate developer · Open source enthusiast · Terminal dweller
-
-I believe open source is one of the most powerful ideas in software — knowledge shared freely compounds in ways that no single company ever could.
-
 ---
 
 ## 🛠️ CLI / TUI
