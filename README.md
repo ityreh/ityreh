@@ -1,31 +1,38 @@
 # Hey, I'm Yannick 👋
 
+> Understanding should never be out of reach or anything but clear.
+
+Developer from Frankfurt building practical software across the terminal, the web, and Linux-based systems.
+
 ---
 
-## 🛠️ CLI / TUI
+## Currently Building
 
-| Project | Description |
-|--------|-------------|
-| 🍣 [gitbatch](https://github.com/makibytes/gitbatch) | Managing multiple git repositories is easier than ever. |
-| ✉️ [xmc](https://github.com/makibytes/xmc) | Unified CLI for sending and receiving messages across different Message and Streaming Brokers. |
+| Project                                               | Description                                                                                    |
+| ----------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| 📜 [basti](https://github.com/ityreh/basti)           | Batch component that reads, interprets, analyzes and creates reports from VRB bank statements. |
+| 🍅 [pomodoro](https://github.com/ityreh/pomodoro)     | A pomodoro utility based on Angular.                                                           |
+| 🐇 [rapidmq](https://github.com/ityreh/rapidmq)       | Fast observable RabbitMQ.                                                                      |
+| 🧵 [deeriy](https://github.com/ityreh/deeriy)         | Webshop backend for self sewn products.                                                        |
+| 🛍️ [deeriy-app](https://github.com/ityreh/deeriy-app) | Webshop app for self sewn products.                                                            |
 
-## 🌐 Web Applications
+## Experiments And Playgrounds
 
-| Project | Description |
-|--------|-------------|
-| 🏡 [home](https://github.com/ityreh/home) | Personal homepage with Microformats for IndieWeb. |
-| 🍅 [pomodoro](https://github.com/ityreh/pomodoro) | Plan, track, record and visualize tasks and time — built on the [Pomodoro Technique](https://francescocirillo.com/). |
-| 📜 [basti](https://github.com/ityreh/basti) | Bank Statement Interface for parsing and processing bank statements. |
+| Project                                             | Description                                   |
+| --------------------------------------------------- | --------------------------------------------- |
+| 🎮 [malyx](https://github.com/ityreh/malyx)         | Climb. Loot. Let chaos do the rest.           |
+| 🌊 [wargo](https://github.com/ityreh/wargo)         | Waves on Argo.                                |
+| 🏛️ [openstage](https://github.com/ityreh/openstage) | OpenStage is an open source developer portal. |
 
-## 📚 Wikis / Documentation
+## Notes And Environment
 
-| Project | Description |
-|--------|-------------|
-| 📘 [Wiki](https://ityreh.github.io/) | My personal knowledge base — technical setups, hints, and notes. Deployed via [GitHub Actions](https://github.com/ityreh/mkdocs/blob/main/.github/workflows/make.yml) from [mkdocs source](https://github.com/ityreh/mkdocs) to [GitHub Pages](https://github.com/ityreh/ityreh.github.io). |
+| Project                                                                     | Description                                                                |
+| --------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| 📚 [capital-markets-notes](https://github.com/ityreh/capital-markets-notes) | Some notes about capital markets.                                          |
+| 💻 [arch-install](https://github.com/ityreh/arch-install)                   | Installer for my personal Arch Linux development environment.              |
+| 🔧 [dotfiles](https://github.com/ityreh/.dotfiles)                          | Dotfiles for my personal Arch Linux development environment configuration. |
 
-## ⚙️ System / Dev Environment
+## Elsewhere
 
-| Project | Description |
-|--------|-------------|
-| 💻 [ArchInstall](https://github.com/ityreh/arch-install) | Automated installer for my personal Arch Linux development environment. |
-| 🔧 [Dotfiles](https://github.com/ityreh/.dotfiles) | Dotfiles for my Arch Linux configuration — because a good environment matters. |
+- Website: [ityreh.de](https://www.ityreh.de/)
+- GitHub profile: [github.com/ityreh](https://github.com/ityreh)
