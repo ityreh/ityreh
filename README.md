@@ -16,7 +16,7 @@ Developer from the heart of Europe focused on distirbuted backend systems based 
 ![Angular](https://img.shields.io/badge/Angular-20232a?style=flat-square&logo=angular&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-20232a?style=flat-square&logo=ethereum&logoColor=white)
 
-... and everything else that relies on a reliable and understandable concept.
+... and just about everything else built on clear, reliable principles.
 
 ---
 
