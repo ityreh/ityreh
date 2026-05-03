@@ -10,6 +10,7 @@ Developer from the heart of Europe focused on distirbuted backend systems based 
 ![Git](https://img.shields.io/badge/Git-20232a?style=flat-square&logo=git&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-20232a?style=flat-square&logo=kubernetes&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232a?style=flat-square&logo=postgresql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-20232a?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-20232a?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-20232a?style=flat-square&logo=spring&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-20232a?style=flat-square&logo=typescript&logoColor=white)
