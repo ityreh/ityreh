@@ -32,12 +32,12 @@ Developer from the heart of Europe focused on distirbuted backend systems based 
 
 ## Some small tools and web apps
 
-| Project                                               | Description                                                                                    |
-| ----------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| 📜 [basti](https://github.com/ityreh/basti)           | Batch component that reads, interprets, analyzes and creates reports from VRB bank statements. |
-| 🍅 [pomodoro](https://github.com/ityreh/pomodoro)     | A pomodoro utility based on Angular.                                                           |
-| 🧵 [deeriy](https://github.com/ityreh/deeriy)         | Webshop backend for self sewn products.                                                        |
-| 🛍️ [deeriy-app](https://github.com/ityreh/deeriy-app) | Webshop app for self sewn products.                                                            |
+| Project                                               | Description                                                      |
+| ----------------------------------------------------- | ---------------------------------------------------------------- |
+| 📜 [vilicus](https://github.com/ityreh/vilicus)       | Self-hosted personal assistant for managing everyday challenges. |
+| 🍅 [pomodoro](https://github.com/ityreh/pomodoro)     | A pomodoro utility based on Angular.                             |
+| 🧵 [deeriy](https://github.com/ityreh/deeriy)         | Webshop backend for self sewn products.                          |
+| 🛍️ [deeriy-app](https://github.com/ityreh/deeriy-app) | Webshop app for self sewn products.                              |
 
 ## Experiments And Playgrounds
 
