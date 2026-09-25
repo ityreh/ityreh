@@ -48,10 +48,9 @@ Developer from the heart of Europe focused on distirbuted backend systems based 
 | 🏛️ [openstage](https://github.com/ityreh/openstage) | OpenStage is an open source developer portal. |
 | 🎮 [malyx](https://github.com/ityreh/malyx)         | Climb. Loot. Let chaos do the rest.           |
 
-## Notes And Environment
+## Workstation Setup and Notes
 
 | Project                                                                     | Description                                                                |
 | --------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| 📚 [capital-markets-notes](https://github.com/ityreh/capital-markets-notes) | Some notes about capital markets.                                          |
 | 💻 [arch-install](https://github.com/ityreh/arch-install)                   | Installer for my personal Arch Linux development environment.              |
-| 🔧 [dotfiles](https://github.com/ityreh/.dotfiles)                          | Dotfiles for my personal Arch Linux development environment configuration. |
+| 🔧 [dotfiles](https://github.com/ityreh/dotfiles)                          | Dotfiles for my personal Arch Linux development environment configuration. |
